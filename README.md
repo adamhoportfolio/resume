@@ -2,11 +2,11 @@
 
 This repository securely hosts and auto-deploys my professional resume to a clean, live URL using GitHub Pages.
 
-> 🚀 [**Click Here to View My Live Resume (PDF)**](https://YOUR_GITHUB_USERNAME.github.io/resume/resume.pdf)
+> 🚀 [**Click Here to View My Live Resume (PDF)**](https://adamhoportfolio.github.io/resume/resume.pdf)
 
 ---
 
-## 🛠️ How to Update
+## 🛠️ How to Update Manually
 
 When you modify your resume on Overleaf, follow these quick steps to update the live link:
 
